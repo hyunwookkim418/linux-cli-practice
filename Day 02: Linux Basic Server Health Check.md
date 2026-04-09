@@ -1,4 +1,4 @@
-Day 02: Linux Basic Server Health Check
+# Day 02: Linux Basic Server Health Check
 
 30-Second Summary: When a Linux server is slow or unresponsive, I start with a quick health check: system identity, uptime/load, disk, memory, network, and running processes. This structured approach helps me quickly identify whether the issue is resource-related, network-related, or process-related before diving deeper.
 
