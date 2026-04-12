@@ -10,12 +10,6 @@ Each day includes:
 - Verification
 - Troubleshooting Steps
 
-## Progress
-- Day 01 – File Operations  
-- Day 02 – Server Health Check  
-- Day 03 – Search  
-- Day 04 – Process Monitoring  
-
 ## Goal
 Build fast, practical skills to handle:
 - Server slowness
