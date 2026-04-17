@@ -46,7 +46,7 @@ sudo ufw status verbose
   Confirms whether firewall rules allow or block SSH (port 22).
   Even if SSH is running, firewall can silently block access.
 
-- `Troubleshooting Order (Critical Habit)`
+- Troubleshooting Order (Critical Habit)
   Always follow:
   1. Network (IP / ping)
   2. Service (SSH running?)
